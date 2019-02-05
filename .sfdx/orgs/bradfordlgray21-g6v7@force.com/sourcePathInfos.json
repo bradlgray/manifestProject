@@ -1,0 +1,167 @@
+[
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/Project manifest/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/Project manifest/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1549298253000,
+            "changeTime": 1549328357429,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/Project manifest/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/Project manifest/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1549298253000,
+            "changeTime": 1549328357433,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/Project manifest/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/Project manifest/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1549298253000,
+            "changeTime": 1549328357441,
+            "contentHash": "7519d87ba8087047829ba514f9315b16468633cb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/Project manifest/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/Project manifest/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1549298253000,
+            "changeTime": 1549304710808,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/Project manifest/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/Project manifest/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1549300645000,
+            "changeTime": 1549328357426,
+            "contentHash": "14fef711defc01ee95d0449b45431e8bea6f4eea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/Project manifest/force-app/main/default/classes/Test.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/Project manifest/force-app/main/default/classes/Test.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 123,
+            "modifiedTime": 1549329690030,
+            "changeTime": 1549329690030,
+            "contentHash": "8032e24e3851440322a7c2023e131129ac9fec01",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/Project manifest/force-app/main/default/classes/Test.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/Project manifest/force-app/main/default/classes/Test.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1549328223668,
+            "changeTime": 1549328227627,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/Project manifest/force-app/main/default/classes/testing.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/Project manifest/force-app/main/default/classes/testing.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1549328223668,
+            "changeTime": 1549328227631,
+            "contentHash": "751fc12d9f76a1e3593850767e994251aa7c4a12",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/Project manifest/force-app/main/default/classes/testing.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/Project manifest/force-app/main/default/classes/testing.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 185,
+            "modifiedTime": 1549328223668,
+            "changeTime": 1549328227637,
+            "contentHash": "874a84b7cde306aadca98fe97e4348c9a181be23",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/Project manifest/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/Project manifest/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1549328233000,
+            "changeTime": 1549328234376,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/Project manifest",
+        {
+            "state": "n",
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/Project manifest",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 544,
+            "modifiedTime": 1549328232000,
+            "changeTime": 1549328232898,
+            "contentHash": "b71f9687b771e4b66216c7911ed4a4a88137c6eb",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
